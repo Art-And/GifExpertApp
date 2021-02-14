@@ -1,4 +1,4 @@
-# Trae tus GIF favoritos! :tw-1f525:
+# Trae tus GIF favoritos! 🔎
 
 Busca tus gif de personajes favoritos desde una API que es usada por WhatsApp, Facebook,
 Slack, Skype, etc y muestralos en pantalla.
@@ -25,7 +25,7 @@ Para desplegar el entorno react puedes usar:
 ```
 Ejecuta en shell:  ~$ npx create-react-app
 ```
-Cualquier duda con respecto a esta App, dejala en los comentarios y con gusto la resuelvo. :tw-1f44d:  
+Cualquier duda con respecto a esta App, dejala en los comentarios y con gusto la resuelvo. 🤟
 
 ## Expresiones de Gratitud 🎁
 
